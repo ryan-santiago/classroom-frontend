@@ -33,7 +33,7 @@ function App() {
 								warnWhenUnsavedChanges: true,
 								projectId: 'hmuZyb-DUq3MH-WtCVV0',
 								title: {
-									text: 'Classroom Management',
+									text: 'Classroom Management - Test Update',
 									icon: (
 										<img
 											src="/test logo.png"
