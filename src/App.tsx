@@ -13,7 +13,7 @@ import { useNotificationProvider } from './components/refine-ui/notification/use
 import { ThemeProvider } from './components/refine-ui/theme/theme-provider'
 import { dataProvider } from './providers/data'
 import Dashboard from './pages/dashboard'
-import { BookOpen, Home, School2 } from 'lucide-react'
+import { BookOpen, Home } from 'lucide-react'
 import { Layout } from './components/refine-ui/layout/layout'
 import SubjectsLists from './pages/subjects/list'
 import SubjectsCreate from './pages/subjects/create'
